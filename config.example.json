@@ -1,0 +1,5 @@
+{
+  "bind_host": "auto",
+  "port": 3081,
+  "mobile_ui": true
+}
